@@ -9,9 +9,9 @@ I currently serve as the student chair of the [NC ASA Scholastic Council](https:
 
 ### Research Interests
 
-    * Multi-Omics/Integrative Analysis
-    * Statistical Genetics
-    * Bioinformatics
+   * Multi-Omics/Integrative Analysis
+   * Statistical Genetics
+   * Bioinformatics
 
 ### Education
 
