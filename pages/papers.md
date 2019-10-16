@@ -17,5 +17,8 @@ Lyndsey Huss, **Sean D McCabe**, Jennifer Dobbs-Oates, John Burgess, Carl Behnke
 
 Selena L Baker, **Sean D McCabe**, Susan E Swithers, Collin R Payne, and Sibylle Kranz. (2015). "Do healthy, child-friendly fruit and vegetable snacks appeal to consumers? A field study exploring adults’ perceptions and purchase intentions." *Food Quality and Preference*, Vol. 39, pp 202-208.
 
+### Non-Journal Article 
+
+* Zachary Hass, Sean D McCabe, and Bruce Craig. (2014) “[Easy to Criticize, Harder to Verify: Fourth and Goal in Post-2011 NFL Overtime.](https://chance.amstat.org/2015/04/nfl-overtime/)” *CHANCE*.
 
 
