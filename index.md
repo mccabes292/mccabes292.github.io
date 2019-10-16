@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sean McCabe
+title: Sean D McCabe
 ---
 
 I am a PhD candidate at the University of North Carolina at Chapel Hill (UNC) in the Department of [Biostatistics](https://sph.unc.edu/bios/biostatistics/) under the direction of [Dr. Michael Love](http://mikelove.github.io/) and [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/). I develop statistical methods for the analysis of high-dimensional genomic data. I'm currently working as a Graduate Research Assistant for the Biostatistics Core at the [Lineberger Comprehensive Cancer Center](https://unclineberger.org/).
