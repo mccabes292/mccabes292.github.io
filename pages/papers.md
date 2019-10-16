@@ -3,6 +3,8 @@ layout: default
 title: "Papers"
 ---
 
+### Publications
+
 **Sean D. McCabe**, Dan-Yu Lin, Michael I. Love.
 Consistency and overfitting of multi-omics methods on experimental data
 *Briefings in Bioinformatics*, July 2019.
