@@ -7,7 +7,7 @@ title: "Software"
 
 <a class="btn btn-primary"
 href="https://github.com/mccabes292/movie"
-role="button">movie</a>
+class="button">movie</a>
 
 * A framework for evaluating multi-omic variance classification methods. Using data segmentation, this framework aims to
   identify the consistency and the extent of overfitting of
