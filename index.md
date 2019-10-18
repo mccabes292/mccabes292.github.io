@@ -18,5 +18,5 @@ I currently serve as the student chair of the [NC ASA Scholastic Council](https:
 
 * M.S. Biostatistics, University of North Carolina at Chapel Hill, December 2017 <br>
 
-* B.S. Majors: Statistics and Mathematics, Minor: Computer Science, Purdue University, May 2014
+* B.S. Double Major in Statistics and Mathematics with a minor in Computer Science, Purdue University, May 2014
 
