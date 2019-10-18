@@ -19,6 +19,6 @@ title: "Papers"
 
 ### Non-Journal Articles
 
-* Zachary Hass, Sean D McCabe, and Bruce Craig. (2014) “[Easy to Criticize, Harder to Verify: Fourth and Goal in Post-2011 NFL Overtime.](https://chance.amstat.org/2015/04/nfl-overtime/)” *CHANCE*.
+* Zachary Hass, **Sean D McCabe**, and Bruce Craig. (2014) “[Easy to Criticize, Harder to Verify: Fourth and Goal in Post-2011 NFL Overtime.](https://chance.amstat.org/2015/04/nfl-overtime/)” *CHANCE*.
 
 
