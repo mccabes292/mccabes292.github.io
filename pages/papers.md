@@ -5,7 +5,10 @@ title: "Papers"
 
 ### Publications
 
-* **Sean D McCabe**, Dan-Yu Lin, and Michael I. Love. (2019).
+* **Sean D McCabe**, Andrew B Nobel, and Michael I Love. (2019). "ACTOR: a latent Dirichlet model to compare expressed isoform proportions to a reference panel" *bioRxiv*. [doi: 10.1101/856401](https://doi.org/10.1101/856401),
+[actor](https://github.com/mccabes292/actor) R package
+
+* **Sean D McCabe**, Dan-Yu Lin, and Michael I Love. (2019).
 "Consistency and overfitting of multi-omics methods on experimental data"
 *Briefings in Bioinformatics*.
 [doi: 10.1093/bib/bbz070](https://doi.org/10.1093/bib/bbz070),
